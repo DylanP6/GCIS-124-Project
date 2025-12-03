@@ -21,4 +21,5 @@ public class Move
     @Override
     public String toString() {
         return "Move: " + row + " " + col;
+    }
 }
